@@ -1,18 +1,21 @@
 # main links
 main:
-  - title: "Theme Documentation"
-    url: https://perstarke-webdev.de/oneflow-jekyll-theme
-    blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
-    url: /#section-1
+  - title: "Welcome to Epopeia"
+    url: /
     blank: false
-  - title: "Section 2"
-    url: /#section-2
+    description: "The homepage of the Epopeia Space, you are welcome to both the website and the space itself "
+  - title: "About"
+    url: /about
     blank: false
-  - title: "Section 3"
-    url: /#section-3
+  - title: "Status"
+    url: /status
     blank: false
-  - title: "Section 4"
-    url: /#section-4
+  - title: "Participate"
+    url: /participate
     blank: false
+  - title: "Contact"
+    url: /participate/contact
+    blank: false
+  # - title: "External link"
+  #   url: https//example.com
+  #   blank: true # the page opens in a new tab if true

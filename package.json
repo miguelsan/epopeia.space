@@ -1,23 +1,23 @@
 {
-  "name": "oneflow",
+  "name": "Epopeia Space",
   "private": true,
   "version": "1.0",
-  "description": "OneFlow, One-Pager Websites Jekyll Theme",
+  "description": "Epopeia's Website",
   "repository": {
     "type": "git",
-    "url": "git://github.com/perstarke-webdev/oneflow-jekyll-theme.git"
+    "url": "git://github.com/miguelsan/oneflow_theme-the_project.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "one-pager"
+    "oneflow-theme",
+    "website"
   ],
-  "author": "Per Starke",
+  "author": "Miguel San Miguel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perstarke-webdev/oneflow-jekyll-theme/issues"
+    "url": "https://github.com/miguelsan/oneflow_theme-the_project/issues"
   },
-  "homepage": "https://perstarke-webdev.de/",
+  "homepage": "https://epopeia.space/",
   "engines": {
     "node": ">= 0.10.0"
   },

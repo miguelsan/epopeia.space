@@ -2,32 +2,31 @@
 layout: page
 title: Impressum und Datenschutz
 permalink: /imprint
+published: false
 ---
 
 #### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
+This imprint & privacy note is in German, as Epopeia members and eventually responsible persons could be German, and it'd be therefore required by German Law. Contact us or use translation tools for an English version. 
 
 <hr>
 
 #### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Name, Address, DE-Postcode City
 
 
 #### Kontakt
-Telefon: +49 160 93268817
+Telefon: +49 Number
 <br>
-e-Mail: per_at_starke-team.de
+e-Mail: mailaddress
 <br>  
   
-[Website](https://perstarke-webdev.de/)   
-[Blog](https://blog.perstarke-webdev.de/)
+[Website](https://epopeia.space)
 
   
 ## Datenschutzerklärung
 
 #### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
 Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />

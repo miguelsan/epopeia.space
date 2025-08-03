@@ -9,7 +9,7 @@ permalink: /status/team
 
 # The Core Team
 
-The current team holding space for the vision.  
+The [current](/status) team holding space for the vision.  
 
 Lisa and Miguel … [and you](/participate/profile)?
 

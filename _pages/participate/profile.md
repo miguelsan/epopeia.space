@@ -16,4 +16,4 @@ You are convinced that humanity has the need and skills to deeply transform its 
 You feel that your life's purpose aligns with our Vision, that you can and want to contribute to the enjoyment and success of such a bold project as Epopeia, that your personal plans can develop in this special environment.
 You can communicate in either Galician, Spanish, Portuguese, English, German, or are ready to learn any of them and teach yours to us.
 
-**Then we would love you to [get in touch with us](contact) asap.** We desire [participation](/participate)! At this moment we are especially needing people for the [core team](/status/team) to start the extraordinary journey ahead.  
+**Then we would love you to [get in touch with us](/participate/contact) asap.** We desire [participation](/participate)! At this moment we are especially needing people for the [core team](/status/team) to start the extraordinary journey ahead.  

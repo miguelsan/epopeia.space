@@ -9,7 +9,7 @@ permalink: /about/values
 
 # The Values of Epopeia
 
-Epopeia is [guided](motivation) by a set of core values that define its dimensions and scopes. These values ensure that the project remains aligned with its [mission](mission) and [vision](vision), fostering a [culture](culture) that is emotionally, cognitively, and practically coherent. 
+Epopeia is [guided](/about/motivation) by a set of core values that define its dimensions and scopes. These values ensure that the project remains aligned with its [mission](/about/mission) and [vision](/about/vision), fostering a [culture](/about/culture) that is emotionally, cognitively, and practically coherent. 
 
 ## The nonad or ennead
 

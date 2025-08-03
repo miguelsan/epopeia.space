@@ -18,7 +18,7 @@ Feel free to use our site as you please, as long as you do not disturbe its func
 You can cite us, tell about us, but **do not make commercial or illegal use of our content**.
 
 ## Cookies and CDN
-**This website is provided through** [GitHub Pages](https://pages.github.com/), a service provided by GitHub, Inc. that enables website content to be distributed efficiently and quickly worldwide. Using GitHub Pages automatically integrates **a content delivery network** (CDN) to optimize website loading times and ensure content availability.
+**This website is provided through** [GitHub Pages](https://pages.github.com/){:target="_blank"}, a service provided by GitHub, Inc. that enables website content to be distributed efficiently and quickly worldwide. Using GitHub Pages automatically integrates **a content delivery network** (CDN) to optimize website loading times and ensure content availability.
 
 By using this website, you agree that some of your non-personal data, such as your IP address and page usage information, may be transferred through the CDN to ensure optimal website performance. This data transfer occurs in accordance with applicable data protection regulations.
 

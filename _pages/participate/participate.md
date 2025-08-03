@@ -28,7 +28,7 @@ Support this work!
 **Donation details:** 
 PayPal: [contribute@epopeia.space]().
 
-For other donation ways (i.e. bank account details), please [contact us directly](contact).
+For other donation ways (i.e. bank account details), please [contact us directly](/participate/contact).
 
 ## Acknowledgment
 

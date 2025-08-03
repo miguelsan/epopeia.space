@@ -41,6 +41,9 @@ table {
 
 .page__content {
   text-align: justify; // or start
+  h1,h2,h3,h4,h5,h6,h7 {
+  	text-align: start;
+  }
 }
 
 .align-center {

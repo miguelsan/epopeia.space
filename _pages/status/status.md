@@ -12,11 +12,13 @@ permalink: /status
 ### Status, systemically
 
 We have identified and explored a physical area which we feel that really has the strongest potential for the project's success. There is both a local history of self-determination and current depopulation. Native inhabitants are regaining confidence on their special traditions and winds of change slowly arise. This allows for re-creating structures from the ground up in yet unexplored ways.
+
 We bring in our knowledge and skills to propose this creative project that finds here ideal conditions to take place.
 
 ### Status, socially
 
 We arrived in its outer region last year, and are moving into [the space](location) this autumn. We are being very well received in both steps. We have now a very good understanding of the particularities of life here.
+
 The social atmosphere in the space is somewhat surprisingly well connected, with a strong sense of identity and desire for honoring its roots of local empowerment.
 
 ### Status, personally
@@ -44,3 +46,4 @@ A baby should arrive in November, which makes our project's intergenerational pe
 ## Bonus
 
 See [the story](https://miguelsanmiguel.com/publications/Welcome%20to%20Epopeia.pdf){:target="_blank"} that started it all...
+

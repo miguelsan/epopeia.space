@@ -5,6 +5,8 @@
 - icons (FontAwesome)
 - [SEO (see how)](https://medium.com/@shantoroy/how-to-effectively-perform-search-engine-optimization-to-a-jekyll-minimal-mistakes-blog-post-9c3a17865eca)
 - some content updates
+- logo & favicon
+- apple-touch-icon (`_includes/head/custom.html`) and co
 
 ## Install
 For installation, see the `howto.md` file.

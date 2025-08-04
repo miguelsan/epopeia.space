@@ -14,7 +14,7 @@ title                    : "Epopeia Space"
 title_separator          : "•"
 subtitle                 : " " # displayed in the masthead below the title, using " " for no subtitle
 url                      : "https://epopeia.space" # the base hostname & protocol for the site
-baseurl                  : "epopeia.space" # the subpath of the site, e.g. "/blog"
+baseurl                  : "/epopeia.space" # the subpath of the site, e.g. "/blog"
 repository               : "miguelsan/oneflow_theme-the_project" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/EPOPEIA.webp" # Site logo displayed in the masthead

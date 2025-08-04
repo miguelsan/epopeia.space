@@ -25,7 +25,7 @@ Support this work!
 
 **Other ways to support** - Support us on site through volunteering. Donate to our association or become part of the (upcoming) Community Pool Fund. Help us with your knowledge or skills. Share this website with someone who could be interested. Contribute your ideas. Tell us what resonated and what didn't. 
 
-**Donation** - PayPal: [contribute@epopeia.space]()
+**Donation** - PayPal: [@EpopeiaSpace](https://paypal.me/EpopeiaSpace){:target="_blank" rel="noopener noreferrer nofollow"}
 
 For other donation ways (i.e. bank account details), please [contact us directly](/participate/contact).
 

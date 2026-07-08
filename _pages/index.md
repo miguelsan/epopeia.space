@@ -63,7 +63,13 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 {::options parse_block_html="true" /}
 
 
-<section class="site-section" id="what-we-do">
+<section class="site-section itr-image-container" id="what-we-do">
+
+<div class="itr-container inline-img">
+<div class="itr-image-container">
+    <img src="/assets/images/3-pillars.jpg" alt="3 pillars" class="itr-image">
+</div>
+    <div class="itr-text">
 
 <h3>What We Do <a class="header-link" href="#what-we-do" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
 
@@ -78,6 +84,10 @@ Learn more about:<br />
 <a href="/the-three-pillars">Intentional Community</a><br />
 <a href="/the-three-pillars">Emergent Systemicity</a>
 </p>
+
+</div>
+
+</div>
 
 </section>
 

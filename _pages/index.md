@@ -63,6 +63,24 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 {::options parse_block_html="true" /}
 
 
+<section class="site-section" id="section-what-we-do">
+
+<h3>What We Do <a class="header-link" href="#what-we-do" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+
+<p>
+We develop the blueprints for a new culture.
+Through research, practice, and scaling, <strong>Epopeia creates frameworks for conscious communities</strong>&mdash;proving that a new way of living together is possible. Here, we connect people, test approaches, and <strong>pave the way for emergence</strong>.
+</p>
+
+<p>
+Learn more about:<br />
+<a href="/the-three-pillars">Holistic Consciousness</a><br />
+<a href="/the-three-pillars">Intentional Community</a><br />
+<a href="/the-three-pillars">Emergent Systemicity</a>
+</p>
+
+</section>
+
 <section class="site-section align-center" id="section-2">
 [We](/status/team) are starting [now](/status) ([between](/status/location) Galicia and Portugal).
 

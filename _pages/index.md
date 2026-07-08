@@ -80,7 +80,7 @@ Through research, practice, and scaling, <strong>Epopeia creates frameworks for 
 As a catalyst, steward, and enabler, we foster <a href="/the-three-pillars">these three pillars</a>:
 </p>
 
-<p class="pillars-list">
+<p class="inline-list">
 <a href="/the-three-pillars#holistic-consciousness">Holistic Consciousness</a>
 <a href="/the-three-pillars#intentional-community">Intentional Community</a>
 <a href="/the-three-pillars#emergent-systemicity">Emergent Systemicity</a>

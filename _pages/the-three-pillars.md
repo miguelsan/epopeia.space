@@ -27,5 +27,25 @@ As a catalyst, steward, and enabler, we nurture:
 ## Intentional Community
 {: #intentional-community }
 
+An intentional community is:
+
+a vibrant circle that\
+connects through regular encounter and touch,\
+strengthens trust by sharing economic and deep emotional care,\
+and aligns in spirit through collective consciousness and common vision;
+
+a creative space that\
+enables individual growth,\
+where new joint realities emerge;
+
+a open web that\
+weaves bridges\
+between inner essence and outer diversity;
+
+the foundational, enduring and natural\
+way of life and form of organization\
+for a thriving and fulfilled existence\
+nourished by authenticity, purpose and joy.
+
 ## Emergent Systemicity
 {: #emergent-systemicity }

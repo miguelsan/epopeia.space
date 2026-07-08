@@ -81,9 +81,9 @@ As a catalyst, steward, and enabler, we foster <a href="/the-three-pillars">thes
 </p>
 
 <p class="inline-list">
-<a href="/the-three-pillars#holistic-consciousness">Holistic Consciousness</a>
-<a href="/the-three-pillars#intentional-community">Intentional Community</a>
-<a href="/the-three-pillars#emergent-systemicity">Emergent Systemicity</a>
+<a class="btn btn--light-outline btn--large" href="/the-three-pillars#holistic-consciousness">Holistic Consciousness</a>
+<a class="btn btn--light-outline btn--large" href="/the-three-pillars#intentional-community">Intentional Community</a>
+<a class="btn btn--light-outline btn--large" href="/the-three-pillars#emergent-systemicity">Emergent Systemicity</a>
 </p>
 
 </div>

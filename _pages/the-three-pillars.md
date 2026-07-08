@@ -23,9 +23,9 @@ To master them is to master the art of co-creation.
 As a catalyst, steward, and enabler, we nurture:
 
 <p class="inline-list">
-<a href="#holistic-consciousness">Holistic Consciousness</a>
-<a href="#intentional-community">Intentional Community</a>
-<a href="#emergent-systemicity">Emergent Systemicity</a>
+<a class="btn btn--light-outline btn--large" href="#holistic-consciousness">Holistic Consciousness</a>
+<a class="btn btn--light-outline btn--large" href="#intentional-community">Intentional Community</a>
+<a class="btn btn--light-outline btn--large" href="#emergent-systemicity">Emergent Systemicity</a>
 </p>
 
 ## Holistic Consciousness

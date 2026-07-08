@@ -60,8 +60,6 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 </div>
 
 </section>
-{::options parse_block_html="true" /}
-
 
 <section class="site-section itr-image-container" id="what-we-do">
 
@@ -90,6 +88,8 @@ Learn more about:<br />
 </div>
 
 </section>
+{::options parse_block_html="true" /}
+
 
 <section class="site-section alternative-color align-center" id="how-we-do">
 [We](/status/team) are starting [now](/status) ([between](/status/location) Galicia and Portugal).

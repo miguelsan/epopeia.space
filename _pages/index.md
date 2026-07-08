@@ -26,7 +26,7 @@ excerpt: "We want humanity to thrive, despite all the challenges we face. And we
 
 ---
 
-<section class="site-section itr-image-container alternative-color first-section" id="section-1">
+<section class="site-section itr-image-container alternative-color first-section" id="built-on">
 
 <!--
 ![Tree with fungi](/assets/images/fungi.webp "Tree with fungi")
@@ -63,7 +63,7 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 {::options parse_block_html="true" /}
 
 
-<section class="site-section alternative-color" id="section-what-we-do">
+<section class="site-section" id="what-we-do">
 
 <h3>What We Do <a class="header-link" href="#what-we-do" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
 
@@ -81,7 +81,7 @@ Learn more about:<br />
 
 </section>
 
-<section class="site-section align-center" id="section-2">
+<section class="site-section alternative-color align-center" id="how-we-do">
 [We](/status/team) are starting [now](/status) ([between](/status/location) Galicia and Portugal).
 
 [Join us](/participate)! ( possibly with [your own project](/participate/profile) )
@@ -89,7 +89,7 @@ Learn more about:<br />
 
 <hr class="section-sep">
 
-<section class="site-section align-center" id="section-3">
+<section class="site-section align-center" id="about-us">
 
 See our [motivation](/about/motivation), [vision](/about/vision) and [mission](/about/mission) statements, <br />and read more about our [values](/about/values) and [culture](/about/culture).
 </section>

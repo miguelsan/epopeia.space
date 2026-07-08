@@ -313,28 +313,10 @@ body:hover .visually-hidden button {
 
 .inline-list {
     text-align: center;
-    margin-top: 1em;
-}
-
-.inline-list a {
-    display: block;
-    margin: 0.5em 0;
-}
-
-@media (min-width: 769px) {
-    .inline-list a {
-        display: inline-block;
-        margin: 0 0.5em;
-        padding: 0.2em 0.5em;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-    }
 }
 
 /* Fix for fixed header covering content on anchor links */
 html {
     scroll-padding-top: 5em;
 }
-h1, h2, h3, h4, h5, h6 {
-    scroll-margin-top: 5em;
-}
+

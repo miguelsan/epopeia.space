@@ -63,7 +63,7 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 {::options parse_block_html="true" /}
 
 
-<section class="site-section" id="section-what-we-do">
+<section class="site-section alternative-color" id="section-what-we-do">
 
 <h3>What We Do <a class="header-link" href="#what-we-do" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
 

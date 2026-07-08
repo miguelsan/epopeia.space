@@ -286,8 +286,6 @@ body:hover .visually-hidden button {
 
 .itr-image {
     max-width: 100%;
-    width: 777px;
-    height: auto;
 }
 
 .itr-text p {
@@ -305,5 +303,30 @@ body:hover .visually-hidden button {
         margin-left: 0;
         margin-bottom: 10px;
         order: -1;
+    }
+}
+
+/* Pillar links styling */
+.pillars-intro {
+    margin-top: 1em;
+}
+
+.pillars-list {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.pillars-list a {
+    display: block;
+    margin: 0.5em 0;
+}
+
+@media (min-width: 769px) {
+    .pillars-list a {
+        display: inline-block;
+        margin: 0 0.5em;
+        padding: 0.2em 0.5em;
+        border: 1px solid #ccc;
+        border-radius: 4px;
     }
 }

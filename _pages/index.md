@@ -76,11 +76,14 @@ We develop the blueprints for a new culture.
 Through research, practice, and scaling, <strong>Epopeia creates frameworks for conscious communities</strong>&mdash;proving that a new way of living together is possible. Here, we connect people, test approaches, and <strong>pave the way for emergence</strong>.
 </p>
 
-<p>
-Learn more about:<br />
-<a href="/the-three-pillars">Holistic Consciousness</a><br />
-<a href="/the-three-pillars">Intentional Community</a><br />
-<a href="/the-three-pillars">Emergent Systemicity</a>
+<p class="pillars-intro">
+As a catalyst, steward, and enabler, we foster <a href="/the-three-pillars">these three pillars</a>:
+</p>
+
+<p class="pillars-list">
+<a href="/the-three-pillars#holistic-consciousness">Holistic Consciousness</a>
+<a href="/the-three-pillars#intentional-community">Intentional Community</a>
+<a href="/the-three-pillars#emergent-systemicity">Emergent Systemicity</a>
 </p>
 
 </div>

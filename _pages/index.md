@@ -67,7 +67,7 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 
 <div class="itr-container inline-img">
 <div class="itr-image-container">
-    <img src="/assets/images/3-pillars.jpg" alt="3 pillars" class="itr-image">
+    <img src="/assets/images/3-pillars.png" alt="3 pillars" class="itr-image">
 </div>
     <div class="itr-text">
 

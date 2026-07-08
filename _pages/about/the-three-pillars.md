@@ -3,13 +3,12 @@ title: "The Three Pillars"
 
 layout: page
 
-permalink: /about/the-three-pillars
+permalink: /the-three-pillars
 
 ---
 
 # The Three Pillars
 
-**We shape the foundations of a rising culture.**
 Through research, development, and implementation, we create **blueprints**—mindsets, practices, and structures—for the **systemicity of conscious communities**. Epopeia becomes a **living space for demonstration**: a place where we adapt and scale best practices, bring together thousands of people, and offer humanity a **new, validated way of existence**.
 
 At the heart of this vision lie **three pillars**—the essence of our work, the compass for our actions, and the fire that drives us. **Together, they form the blueprint of our culture.** Epopeia does not just embrace these pillars individually, but **weaves them into a harmonious whole.**
@@ -55,3 +54,22 @@ nourished by authenticity, purpose and joy.
 
 ## Emergent Systemicity
 {: #emergent-systemicity }
+
+Emergent systemicity is:
+
+the embodied quality of intentional, synergistic coupling of components\
+through extended cooperation, constructive antagonism, and multidirectional influence\
+in modular, cohesive, and multi-level architectures\
+with distributed interaction through signals and channels,\
+to form a coherent, irreducible whole that transcends its constituent parts;
+
+the creative phenomenon of self-organization generating novel\
+cognition as knowledge, intelligence, meaning,\
+dynamics as processes, behaviors, practices, and\
+structures as properties, patterns, frameworks,\
+within the phase space defined by boundaries, constraints, and dependencies;
+
+the capacity of an arrangement to combine, evolve, and scale in complexity,\
+incorporating uncertainty through intrinsic feedback loops\
+for adaptive innovation at the chaos-order edge\
+to stably thrive through capacity expansion, in service of its environment.

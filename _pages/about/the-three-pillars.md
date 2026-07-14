@@ -31,10 +31,32 @@ As a catalyst, steward, and enabler, we nurture:
 ## Holistic Consciousness
 {: #holistic-consciousness }
 
+Holistic Consciousness is:
+
+a capacity to explore the world as an enduring quest for truth\
+in a curious, courageous, humble spirit that\
+acknowledges complexity and multi-perspectivism\
+overcoming fallacies and dogma\
+through science, philosophy and spirituality;
+
+a journey of unfolding self-discovery that\
+incorporaties all levels of experience, lightening shadow and healing trauma\
+through process work in spaces of presence and awareness,\
+empowering blissful expansion of\
+trustful wisdom, higher insight, and life-affirming responsibility;
+
+an emerging entity between I, We and What that\
+weaves worldviews and stories\
+through open connectedness, shared intention and deep listening\
+into a new form of being,\
+a ground-breaking step of evolution,\
+a fundamental source of transformation:\
+the collective mind.
+
 ## Intentional Community
 {: #intentional-community }
 
-An intentional community is:
+Intentional community is:
 
 a vibrant circle that\
 connects through regular encounter and touch,\
@@ -75,3 +97,4 @@ the capacity of an arrangement to combine, evolve, and scale in complexity,\
 incorporating uncertainty through intrinsic feedback loops\
 for adaptive innovation at the chaos-order edge\
 to stably thrive through capacity expansion, in service of its environment.
+

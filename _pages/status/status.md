@@ -9,6 +9,10 @@ permalink: /status
 
 # The Status of Epopeia
 
+This is our latest report on how we see ourselves.
+
+You can also see previous reports in our [history](/status/history).
+
 ### Status, systemically
 
 We have identified and explored a physical area which we feel that really has the strongest potential for the project's success. There is both a local history of self-determination and current depopulation. Native inhabitants are regaining confidence on their special traditions and winds of change slowly arise. This allows for re-creating structures from the ground up in yet unexplored ways.

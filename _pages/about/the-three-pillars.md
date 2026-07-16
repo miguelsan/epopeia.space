@@ -9,6 +9,8 @@ permalink: /about/the-three-pillars
 
 # The Three Pillars
 
+## What We Do
+
 **We shape the foundations of a rising culture.**\
 Through research, development, and implementation, we create **blueprints**—mindsets, practices, and structures—for the **systemicity of conscious communities**. Epopeia becomes a **living space for demonstration**: a place where we adapt and scale best practices, bring together thousands of people, and offer humanity a **new, validated way of existence**.
 

@@ -26,7 +26,7 @@ excerpt: "We want humanity to thrive, despite all the challenges we face. And we
 
 ---
 
-<section class="site-section itr-image-container alternative-color first-section" id="section-1">
+<section class="site-section itr-image-container alternative-color first-section" id="built-on">
 
 <!--
 ![Tree with fungi](/assets/images/fungi.webp "Tree with fungi")
@@ -60,10 +60,41 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 </div>
 
 </section>
+
+<section class="site-section itr-image-container" id="what-we-do">
+
+<div class="itr-container inline-img">
+<div class="itr-image-container">
+    <img src="/assets/images/3-pillars.png" alt="3 pillars" class="itr-image">
+</div>
+    <div class="itr-text">
+
+<h3>What We Do <a class="header-link" href="#what-we-do" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h3>
+
+<p>
+We develop the blueprints for a new culture.
+Through research, practice, and scaling, <strong>Epopeia creates frameworks for conscious communities</strong>&mdash;proving that a new way of living together is possible. Here, we connect people, test approaches, and <strong>pave the way for emergence</strong>.
+</p>
+
+<p class="pillars-intro">
+As a catalyst, steward, and enabler, we foster <a href="/about/the-three-pillars">these three pillars</a>:
+</p>
+
+<p class="inline-list">
+<a class="btn btn--light-outline btn--large" href="/about/the-three-pillars#holistic-consciousness">Holistic Consciousness</a>
+<a class="btn btn--light-outline btn--large" href="/about/the-three-pillars#intentional-community">Intentional Community</a>
+<a class="btn btn--light-outline btn--large" href="/about/the-three-pillars#emergent-systemicity">Emergent Systemicity</a>
+</p>
+
+</div>
+
+</div>
+
+</section>
 {::options parse_block_html="true" /}
 
 
-<section class="site-section align-center" id="section-2">
+<section class="site-section alternative-color align-center" id="how-we-do">
 [We](/status/team) are starting [now](/status) ([between](/status/location) Galicia and Portugal).
 
 [Join us](/participate)! ( possibly with [your own project](/participate/profile) )
@@ -71,7 +102,7 @@ One of social-entrepreneurship, trauma-awareness and eco-villages, taking it one
 
 <hr class="section-sep">
 
-<section class="site-section align-center" id="section-3">
+<section class="site-section align-center" id="about-us">
 
 See our [motivation](/about/motivation), [vision](/about/vision) and [mission](/about/mission) statements, <br />and read more about our [values](/about/values) and [culture](/about/culture).
 </section>

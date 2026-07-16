@@ -305,3 +305,18 @@ body:hover .visually-hidden button {
         order: -1;
     }
 }
+
+/* Pillar links styling */
+.pillars-intro {
+    margin-top: 1em;
+}
+
+.inline-list {
+    text-align: center;
+}
+
+/* Fix for fixed header covering content on anchor links */
+html {
+    scroll-padding-top: 5em;
+}
+

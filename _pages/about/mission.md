@@ -9,7 +9,7 @@ permalink: /about/mission
 
 ## The Mission of Epopeia
 
-Our purpose is to create a blueprint for a new system that inspires and guides humanity towards a truly connected, sustainable, and fulfilling way of life — qualities already present in small, thriving intentional communities. We are so passionate about advancing to the next systemic level that we are founding Epopeia, an initiative to turn this blueprint into reality. In doing so, we nurture [the Vision](/about/vision), a Conscious Global Community.
+Our purpose is to create a blueprint for a new system that inspires and guides humanity towards a truly connected, sustainable, and fulfilling way of life — qualities already present in small, thriving intentional communities. We are so passionate about advancing to the next systemic level that we are founding Epopeia, an initiative to turn this blueprint into reality. In doing so, we nurture [the Vision](/about/vision), a Conscious Global Community, based on [our three pillars](/about/the-three-pillars).
 
 Epopeia incorporates a set of communities with a shared identity, located in the same [physical bioregion](/status/location), coordinated and organized as a larger entity. This broader community demands new [structures and practices](/about/culture) to make it all-encompassing and sufficient, appealing and inspirational. This conscious, joyful, sustainable experience is embedded in a [new culture](/about/culture) that learns from the past while practicing stewardship of the Earth for future generations.
 

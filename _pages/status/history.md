@@ -6,9 +6,15 @@ layout: page
 permalink: /status/history
 
 ---
+{::options parse_block_html="true" /}
+
 # The History of Epopeia
 
 This is our history as we saw and told it (it can be understood as a blog).
+
+<hr class="section-sep">
+
+<section class="site-section alternative-color" id="july-2025">
 
 ## As of July 2025
 
@@ -45,4 +51,8 @@ A baby should arrive in November, which makes our project's intergenerational pe
 **From then on**: Preparing the housing, the financial and legal infrastructure for people to come (founding an association, buying or renting homes, finding stakeholders, creating a community fund,… ).
 
 **Further evolvement**: once we create a field for the community to come, we'll **facilitate projects aligned with our values**, which includes developing several business models. Want to do your project with us? [Please reach out!](/participate)
+
+</section>
+
+<hr class="section-sep">
 
